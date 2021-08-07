@@ -2,7 +2,7 @@
     <img src="./rizerUtil/photop1.jpg" width="75" alt="rizerphoto">
 </p>
 <p align="center">
-    <font style="font-family: times, serif; font-size:11pt; font-style:italic">RIZER</font>
+    <font size="3">RIZER</font>
 </p>
 
 # Rizer Available Category Command
