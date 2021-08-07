@@ -43,7 +43,6 @@
 # install package
 
 ```
-> npm init
 > npm install gify-cli -g
 > npm i
 
