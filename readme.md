@@ -1,8 +1,9 @@
 <p align="center">
     <img src="./rizerUtil/photop1.jpg" width="75" alt="rizerphoto">
 </p>
+
 <p align="center">
-    <font size="3">RIZER</font>
+    <font size="5">RIZER</font>
 </p>
 
 # Rizer Available Category Command
