@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/badge/Rizer-1.0.0-brightgreen.svg">
 </p>
 
+<p align="center">
+    <font><i>Rizer delights you with fun commands, and more. Rizer will continue to be developed with the emergence of new commands!
+    Not only with the fun command, you can use the utility command. You can give orders to Rizer to provide information about users, guilds, and others!</i></font>
+</p>
 # Rizer Available Category Command
 
 | Category  | Available |
