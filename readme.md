@@ -1,5 +1,5 @@
 <p align="center">
-    ![Rizer](https://i.pinimg.com/originals/f3/2d/11/f32d119d0bda628fc39c29b386040d48.jpg)
+    <img src"./rizerUtil/photop1.jpg" alt="rizerphoto" title="Rizer">
 </p>
 
 # Rizer Available Category Command
