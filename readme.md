@@ -1,6 +1,6 @@
 # Testing readme
 
-Just testing my first readme!
+Testing my first readme!
 
 # Rizer Available Category Command
 
@@ -9,8 +9,15 @@ Just testing my first readme!
 | Fun       | ✅        |
 | Utility   | ✅        |
 | Moderator | ❌        |
+| Music     | ❌        |
 
-# install
+# Clone this repo
+
+```
+> git clone https://github.com/Kuroi-RE/rizer.git
+```
+
+# install package
 
 ```
 > npm init
@@ -19,8 +26,8 @@ Just testing my first readme!
 
 ```
 
-# Url other:
+# Rizer Utility:
 
-[Invite](https://discord.com/invite)
+[Nekos.life](https://discord.com/invite)
 
 [DiscordJs](https://www.npmjs.com/package/discord.js)
