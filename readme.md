@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./rizerUtil/photop1.jpg" width="75" alt="rizerphoto">
+    <img src="./rizerUtil/photop1.jpg" width="90" alt="rizerphoto">
 </p>
 
 <p align="center">
@@ -10,14 +10,26 @@
     <font><i>Rizer delights you with fun commands, and more. Rizer will continue to be developed with the emergence of new commands!
     Not only with the fun command, you can use the utility command. You can give orders to Rizer to provide information about users, guilds, and others!</i></font>
 </p>
+
+# Category
+
+- [x] Fun
+- [x] Utility
+- [ ] Moderator
+- [ ] Music
+
 # Rizer Available Category Command
 
-| Category  | Available |
-| --------- | --------- |
-| Fun       | ✅        |
-| Utility   | ✅        |
-| Moderator | ❌        |
-| Music     | ❌        |
+| Commands    | Available |
+| ----------- | --------- |
+| avatar      | ✅        |
+| say         | ✅        |
+| 8ball       | ✅        |
+| tell        | ✅        |
+| neko        | ✅        |
+| quote       | ✅        |
+| wallpaper   | ✅        |
+| randomphoto | ✅        |
 
 # Clone this repo
 
