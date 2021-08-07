@@ -1,5 +1,5 @@
 <p align="center">
-    <img src"./rizerUtil/photop1.jpg" alt="rizerphoto" title="Rizer">
+    <img src="./rizerUtil/photop1.jpg" width="350" alt="rizerphoto">
 </p>
 
 # Rizer Available Category Command
