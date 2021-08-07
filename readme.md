@@ -17,19 +17,22 @@
 - [x] Utility
 - [ ] Moderator
 - [ ] Music
+<!--
+❎ | ✅
+-->
 
-# Rizer Available Category Command
+# Rizer Available Command
 
 | Commands    | Available |
 | ----------- | --------- |
-| avatar      | ✅        |
-| say         | ✅        |
-| 8ball       | ✅        |
-| tell        | ✅        |
-| neko        | ✅        |
-| quote       | ✅        |
-| wallpaper   | ✅        |
-| randomphoto | ✅        |
+| avatar      | ❎        |
+| say         | ❎        |
+| 8ball       | ❎        |
+| tell        | ❎        |
+| neko        | ❎        |
+| quote       | ❎        |
+| wallpaper   | ❎        |
+| randomphoto | ❎        |
 
 # Clone this repo
 
