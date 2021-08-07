@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <font size="5">RIZER</font>
+    <img src="https://img.shields.io/badge/Rizer-1.0.0-brightgreen.svg">
 </p>
 
 # Rizer Available Category Command
