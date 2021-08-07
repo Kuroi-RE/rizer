@@ -1,4 +1,4 @@
-<p align="center" font-size="75">
+<p align="center" style="font-size: 77px;">
     <img src="./rizerUtil/photop1.jpg" width="75" alt="rizerphoto"> Rizer
 </p>
 
